@@ -1,5 +1,4 @@
-var packages = require('kanso/packages'),
-    async = require('async'),
+var async = require('async'),
     utils = require('./utils'),
     path = require('path'),
     fs = require('fs');
